@@ -667,7 +667,7 @@ ul.top-info li p.info-text {
 
 .header-one,
 .header-one .site-navigation {
-  background: #23282d;
+  background: #18445b;
 }
 
 .header-one .navbar-collapse {
@@ -2357,7 +2357,7 @@ img.testimonial-thumb {
 ================================================== */
 /*- Footer common */
 .footer {
-  background-color: #0d0d0d;
+  background: #18445b;
   color: #999;
 }
 
