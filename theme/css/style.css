@@ -3358,3 +3358,26 @@ label {
   height: 3.5rem;
 }
 /*# sourceMappingURL=style.css.map */
+
+/* RESPONSIVE ANDREW */
+ 
+/* Tablets en horizonal y escritorios normales */
+@media (min-width: 768px) and (max-width: 1199px) { 
+  .page-slider {
+    margin-top: 0 !important;
+  }
+}
+ 
+/* Móviles en horizontal o tablets en vertical */
+@media (max-width: 767px) {
+  .page-slider {
+    margin-top: 96px !important;
+  }
+}
+ 
+/* Móviles en vertical */
+@media (max-width: 480px) {
+  .page-slider {
+    margin-top: 96px !important;
+  }
+}
