@@ -3381,3 +3381,10 @@ label {
     margin-top: 96px !important;
   }
 }
+
+.city-bold{
+  font-weight: bold;
+  color: #0052a5;
+  text-align: center;
+  font-size: 1.2rem;
+}
