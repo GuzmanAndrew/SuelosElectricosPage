@@ -732,7 +732,7 @@ ul.navbar-nav > li.active > a {
 /*-- Logo --*/
 .logo img {
   width: auto;
-  height: 35px;
+  height: 50px;
 }
 
 .header-two .logo img {
@@ -3359,7 +3359,6 @@ label {
 
 .imgLogoHeader {
   width: auto;
-  height: 3.5rem;
 }
 /*# sourceMappingURL=style.css.map */
 
@@ -3700,4 +3699,32 @@ html {
   .about-styles {
     height: 450px;
   }
+}
+
+.general-titles-in{
+  font-size: 1.2rem;
+}
+
+.nosotros-i-tittle{
+  color: white;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 40px;
+  line-height: normal;
+  margin: 10px 0;
+}
+
+.vision-title{
+  color: white;
+  margin-top: 3.4rem !important;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 50px;
+  line-height: normal;
+  margin: 10px 0;
+}
+
+.styles-log-footer{
+  width: 50% !important;
+  height: auto;
 }
