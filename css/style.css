@@ -3692,12 +3692,19 @@ html {
 }
 @media (max-width: 991px) {
   .about-styles {
-    height: 550px;
+    height: 767px;
   }
 }
-@media (max-width: 575px) {
-  .about-styles {
-    height: 450px;
+.vision-styles{
+  height: auto;
+  color: #fff;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+@media (max-width: 550px) {
+  .vision-styles {
+    height: 530px;
+    text-align: center;
   }
 }
 
@@ -3728,3 +3735,15 @@ html {
   width: 50% !important;
   height: auto;
 }
+@media (max-width: 550px) {
+  .styles-log-footer {
+    width: 30% !important;
+  }
+}
+
+@media (max-width: 550px) {
+  .footer-main {
+    padding: 0;
+  }
+}
+
