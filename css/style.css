@@ -1705,7 +1705,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 /* Service box bg */
 .ts-service-box-bg {
-  background: #252525;
+  background: rgb(12 59 112 / 81%);
   color: #fff;
   padding: 30px;
 }
