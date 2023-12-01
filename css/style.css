@@ -2714,6 +2714,7 @@ img.testimonial-thumb {
 }
 
 .ts-team-wrapper {
+  text-align: center;
   position: relative;
   overflow: hidden;
 }
@@ -3731,5 +3732,14 @@ html {
 @media (max-width: 550px) {
   .footer-main {
     padding: 0;
+  }
+}
+
+.electrosuelotitles{
+  font-size: 5rem
+}
+@media (max-width: 550px) {
+  .electrosuelotitles {
+    font-size: 3rem
   }
 }
