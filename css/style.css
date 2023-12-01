@@ -3432,7 +3432,7 @@ label {
   padding: 20px;
   position: relative;
   box-shadow: none;
-} 
+}
 
 .single_post .body {
   padding: 30px;
@@ -3461,7 +3461,6 @@ label {
   -webkit-filter: grayscale(0);
   -webkit-transform: scale(1.01);
 }
-
 
 .single_post .img-post:hover .social_share {
   display: block;
@@ -3678,12 +3677,7 @@ html {
   background-position: 50% 50%;
   background-size: cover;
 }
-@media (max-width: 991px) {
-  .about-styles {
-    height: 767px;
-  }
-}
-.vision-styles{
+.vision-styles {
   height: auto;
   color: #fff;
   background-position: 50% 50%;
@@ -3693,14 +3687,15 @@ html {
   .vision-styles {
     height: 530px;
     text-align: center;
+    padding: 0 !important;
   }
 }
 
-.general-titles-in{
+.general-titles-in {
   font-size: 1.2rem;
 }
 
-.nosotros-i-tittle{
+.nosotros-i-tittle {
   color: white;
   font-weight: 900;
   text-transform: uppercase;
@@ -3709,7 +3704,7 @@ html {
   margin: 10px 0;
 }
 
-.vision-title{
+.vision-title {
   color: white;
   margin-top: 3.4rem !important;
   font-weight: 900;
@@ -3719,7 +3714,7 @@ html {
   margin: 10px 0;
 }
 
-.styles-log-footer{
+.styles-log-footer {
   width: 50% !important;
   height: auto;
 }
@@ -3735,11 +3730,11 @@ html {
   }
 }
 
-.electrosuelotitles{
-  font-size: 5rem
+.electrosuelotitles {
+  font-size: 5rem;
 }
 @media (max-width: 550px) {
   .electrosuelotitles {
-    font-size: 3rem
+    font-size: 3rem;
   }
 }
